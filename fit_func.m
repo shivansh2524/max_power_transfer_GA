@@ -1,3 +1,4 @@
+%this function decodes population to be fed into fitness function
 function fit_val=fit_func(chromo,m,v,r1)
 r2=0;
 for i=1:m

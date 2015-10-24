@@ -1,3 +1,4 @@
+%this is the main function
 v=input('Enter v:');
 r1=input('Enter r1:');
 n=input('Enter Popln size:');
